@@ -3,3 +3,7 @@ def print_hello():
         print("Hello, World!")
 
 print_hello()
+def vivaMechMat():
+    print("Viva Mech-mat faculty!")
+
+vivaMechMat()
